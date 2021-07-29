@@ -1,14 +1,11 @@
-# AngularChromeExtension
+# Angular Chrome Extension Template
 
-This is a demonstration project for developing Chrome extension within Angular ecosystem. 
+This is a template repository to create a V3 Chrome extension with Angular. 
 
 Features: 
  - Angular 12
- - Google Chrome Extension Manifest v2 (v3 will be supported soon)
+ - Google Chrome Extension Manifest v3
  - Background/Content script live reload
+ - Angular Material    
+ - Based on: https://github.com/just-jeb/angular-chrome-extension
 
-## Related article
-[![](https://miro.medium.com/max/1920/1*yPzpouKBY1mORRbnnUSviA.png)](https://www.justjeb.com/post/chrome-extension-with-angular-from-zero-to-a-little-hero)
-
-## Related talk
-[![](http://img.youtube.com/vi/T1gLcRa2Fm0/0.jpg)](http://www.youtube.com/watch?v=T1gLcRa2Fm0)
